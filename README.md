@@ -88,7 +88,7 @@ Tableau (Dashboard Design) | Excel (Data Classification) | Python (EDA) | KPI Tr
 
 ## 🎓 Certifications
 
-✅ Deloitte Data Analytics Job Simulation – Forage
+### ✅ Deloitte Data Analytics Job Simulation – Forage
 
 Skills: Data analysis, business problem-solving, consulting deliverables | Tools: Excel, Tableau, PowerPoint 
 📄 [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_oQjzQ6E3x2z3KaC8d_1752081962524_completion_certificate.pdf) 
