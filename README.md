@@ -88,10 +88,18 @@ Tableau (Dashboard Design) | Excel (Data Classification) | Python (EDA) | KPI Tr
 
 ## 🎓 Certifications
 
+✅ Deloitte Data Analytics Job Simulation – Forage
+
+Skills: Data analysis, business problem-solving, consulting deliverables | Tools: Excel, Tableau, PowerPoint 
+📄 [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_oQjzQ6E3x2z3KaC8d_1752081962524_completion_certificate.pdf) 
+
+---
+
 ### ✅ Google Data Analytics Professional Certificate – Coursera
 
 Comprehensive 8-course program covering the full analytics lifecycle. 
 📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/ZEQW3140T884)
+
 **Modules & Certificates:**
 
 1. Foundations: Data, Data, Everywhere – *Skills: Data lifecycle, ecosystems* | *Tools: Spreadsheets, Google Data Studio*
@@ -140,4 +148,4 @@ Let’s connect!
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/kishan-patel-kp1629)
 * 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/kishanpatel1629)
-* 📧 [kishan.patel1629@gmail.com]
+* 📧 kishan.patel1629@gmail.com
