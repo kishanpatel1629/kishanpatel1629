@@ -47,4 +47,4 @@ Python (pandas), Tableau, Excel
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/kishan-patel-kp1629) | [Tableau Public](https://public.tableau.com/app/profile/kishanpatel1629) | kishan.patel1629@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kishan-patel-kp1629) | [Tableau Public](https://public.tableau.com/app/profile/kishan.patel5786) | kishan.patel1629@gmail.com
