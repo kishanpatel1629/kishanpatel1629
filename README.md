@@ -1,151 +1,50 @@
-# 👋 Hi, I'm Kishan Patel
+# Kishan Patel
 
-**Aspiring Data Analyst | Google-certified | Skilled in SQL, Python, R, Excel, Tableau | Transforming Data into Business Value**
+Aspiring Data Analyst based in Ontario, Canada. I clean, analyze and visualize data with SQL, Python, Tableau, Power BI and Excel, and I turn what I find into clear recommendations.
 
-📍 Ontario, Canada
+I have a Bachelor of Engineering in Computer Science and a college diploma in Computer Systems Technician (Software Support) from Mohawk College. I am looking for entry level and intermediate data analyst roles in the GTA and Hamilton area, and remote roles across Canada.
 
----
+## Projects
 
-## 🚀 About Me
+### Cyclistic Bike Share Analysis
+Google Data Analytics Capstone | SQL Server (T-SQL), Tableau, Excel
 
-I’m a results-driven **Data Analyst** with a background in **Computer Science** and professional certification in **Google Data Analytics**. I bring a strong mix of **technical expertise, analytical thinking, and business understanding** to help organizations make informed, data-driven decisions.
+* Combined 12 monthly files into one SQL Server table of 4.2 million+ ride records, then removed records with missing stations, invalid rider types and trips of zero minutes or over 24 hours.
+* Found that casual riders averaged 23.0 minute rides compared with 12.3 minutes for members, with casual riding peaking on weekends and member riding peaking at 8 AM and 5 PM.
+* Delivered three recommendations to grow annual memberships, including weekend campaigns at the busiest lakefront stations.
 
-🌟 What defines me:
+[Repository](https://github.com/kishanpatel1629/cyclistic-case-study) | [Tableau dashboard](https://public.tableau.com/views/Cyclistic_tripdata_2023/CyclisticDashboard)
 
-* **Analytical Mindset** – Skilled at breaking down complex data problems and turning them into clear, actionable insights.
-* **Business-Oriented Approach** – I don’t just analyze data, I connect it to real business outcomes that support growth and efficiency.
-* **Storytelling with Data** – Passionate about creating **impactful visualizations** that communicate insights to both technical and non-technical audiences.
-* **Continuous Learner** – Always exploring **new tools, advanced SQL, cloud analytics, and AI-driven approaches** to stay ahead of industry trends.
+### Deloitte Australia Data Analytics Job Simulation (Forage)
+Python (pandas), Tableau, Excel
 
-💡 My strength lies in bridging the gap between **raw data and decision-making**, ensuring that every analysis not only answers questions but also drives strategy.
+* Flattened 160,000+ nested JSON telemetry records from 36 machines across 4 factories into a clean table with pandas.
+* Built a Tableau dashboard of machine downtime by factory and device type. The Osaka factory caused about 47% of total downtime, all from laser welders.
+* Classified 37 HR equality scores in Excel using nested IF and ABS formulas. 18 scores fell outside the fair range.
 
----
+[Repository](https://github.com/kishanpatel1629/deloitte-forage-data-analytics) | [Tableau dashboard](https://public.tableau.com/views/Daikibo-Telemetry/Machine_Downtime_Analysis-DB)
 
-## 🛠 Skills & Tools
+## Skills
 
-**💻 Languages & Querying**
+* **SQL:** SQL Server (T-SQL, SSMS), MySQL, JOINs, subqueries, CTEs, window functions (ROW_NUMBER, RANK), aggregations, CASE logic, date functions
+* **Python:** pandas (merge, groupby, data cleaning), NumPy, Matplotlib, JSON data flattening, Google Colab
+* **Tableau:** interactive dashboards, calculated fields, LOD expressions, parameters, filters
+* **Power BI:** Power Query, data modelling and table relationships, DAX measures (CALCULATE), KPI dashboards
+* **Excel:** pivot tables, VLOOKUP, XLOOKUP, INDEX/MATCH, nested IF formulas, charts, conditional formatting, Power Query
+* **AI tools:** ChatGPT, Claude, Microsoft Copilot (Excel, Power BI), prompt engineering, AI assisted coding and analysis
+* **Analysis:** data cleaning, data validation, exploratory data analysis, trend analysis, KPI reporting
+* **Tools:** Git, GitHub, JIRA, SharePoint, Looker Studio
 
-* SQL – Advanced queries, Filters, joins, CTEs, window functions, optimization
-* Python – Pandas, NumPy, data wrangling, API integration, automation
-* R – Statistical modeling, tidyverse, regression analysis
+## Certifications
 
-**📊 Data Visualization & Reporting**
+* [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ZEQW3140T884), Coursera
+* Microsoft Power BI Data Analyst Professional Certificate, Coursera
+* [Google: Get Started with Python](https://coursera.org/share/881b39b15d3987188d899d410129e1a8), Coursera
+* [Google Cloud: Introduction to Generative AI](https://www.coursera.org/account/accomplishments/records/E2RNBTUQYTUA), Coursera
+* [Deloitte Australia Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_oQjzQ6E3x2z3KaC8d_1752081962524_completion_certificate.pdf), Forage
+* [AWS Cloud 101](https://www.credly.com/badges/3ddc1518-5d95-4958-8f35-3eea9fba17e1/linked_in_profile), AWS Educate
+* Software Testing and Quality Assurance, Dev IT Training
 
-* Tableau – Interactive dashboards, KPIs, storytelling with data
-* Power BI – DAX, Power Query, real-time dashboards
-* Excel – Pivot tables, formulas, VBA, scenario modeling
+## Contact
 
-**🛠 Tools & Platforms**
-
-* Git & GitHub – Version control, collaboration
-* Google Cloud Platform – BigQuery, data pipelines
-* AWS – S3, Redshift, Athena
-* Jupyter Notebook, RStudio, SSMS
-
-**🔑 Core Competencies**
-Data Cleaning | EDA | KPI Development | Dashboard Design | Business Storytelling | Problem-Solving | Collaboration
-
----
-
-## 📊 Featured Projects
-
-### 🚴‍♂️ Cyclistic Bike-Share Analysis
-
-**Business Problem:** How can casual riders be converted into annual members to improve long-term revenue?
-
-**Key Skills & Tools:**
-SQL (Data Cleaning & Transformation) | Excel (Trend Analysis) | Tableau (Interactive Dashboards) | Business Insights
-
-**Process in Brief:**
-
-* Consolidated **12 months of ride data** into a structured dataset
-* Applied **SQL transformations** for data quality and consistency
-* Explored usage trends by season, duration, and rider type
-* Built **interactive Tableau dashboards** for leadership review
-* Delivered **3 actionable strategies** to increase memberships
-
-🔗 [GitHub Repository](https://github.com/kishanpatel1629/cyclistic-case-study) | [📊 Tableau Dashboard](https://public.tableau.com/views/Cyclistic_tripdata_2023/CyclisticDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
-### 🏭 Daikibo - Factory Downtime & HR Equality Analysis
-
-**Business Problem:** Identify downtime drivers and HR equality performance gaps to improve operations and workplace fairness.
-
-**Key Skills & Tools:**
-Tableau (Dashboard Design) | Excel (Data Classification) | Python (EDA) | KPI Tracking
-
-**Process in Brief:**
-
-* Cleaned and analyzed downtime datasets for performance patterns
-* Used **Excel logic** to classify HR equality scores
-* Designed **Tableau dashboards** to visualize KPIs and trends
-* Highlighted operational inefficiencies and HR improvement areas
-
-🔗 [GitHub Repository](https://github.com/kishanpatel1629/deloitte-forage-data-analytics) | [📊 Tableau Dashboard](https://public.tableau.com/views/Daikibo-Telemetry/Machine_Downtime_Analysis-DB?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
-## 🎓 Certifications
-
-### ✅ Deloitte Data Analytics Job Simulation – Forage
-
-Skills: Data analysis, business problem-solving, consulting deliverables | Tools: Excel, Tableau, PowerPoint 
-📄 [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_oQjzQ6E3x2z3KaC8d_1752081962524_completion_certificate.pdf) 
-
----
-
-### ✅ Google Data Analytics Professional Certificate – Coursera
-
-Comprehensive 8-course program covering the full analytics lifecycle. 
-📄 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/ZEQW3140T884)
-
-**Modules & Certificates:**
-
-1. Foundations: Data, Data, Everywhere – *Skills: Data lifecycle, ecosystems* | *Tools: Spreadsheets, Google Data Studio*
-
-2. Ask Questions to Make Data-Driven Decisions – *Skills: SMART questions, stakeholder engagement* | *Tools: Google Sheets, Google Slides*
-
-3. Prepare Data for Exploration – *Skills: Data integrity, ethics* | *Tools: SQL, Spreadsheets*
-
-4. Process Data from Dirty to Clean – *Skills: Wrangling, missing data handling* | *Tools: Excel, SQL*
-
-5. Analyze Data to Answer Questions – *Skills: SQL joins, aggregations* | *Tools: SQL, R*
-
-6. Share Data Through the Art of Visualization – *Skills: Data storytelling* | *Tools: Tableau, PowerPoint*
-
-7. Data Analysis with R Programming – *Skills: Hypothesis testing, regression* | *Tools: RStudio, tidyverse*
-
-8. Capstone Project – *Skills: End-to-end project execution* | *Tools: SQL, R, Tableau, Excel*
-
----
-
-### ✅ Get Started with Python – Google / Coursera
-
-*Skills: Python basics, loops, data manipulation, automation* | *Tools: Python, Jupyter Notebook*
-📄 [View Certificate](https://coursera.org/share/881b39b15d3987188d899d410129e1a8)
-
-### ✅ Introduction to Generative AI – Google Cloud
-
-*Skills: AI concepts, prompt engineering, analytics applications* | *Tools: Google Cloud Vertex AI*
-📄 [View Certificate](https://www.coursera.org/account/accomplishments/records/E2RNBTUQYTUA)
-
-### ✅ AWS Cloud 101 – AWS Educate
-
-*Skills: Cloud fundamentals, data storage, querying, analytics* | *Tools: AWS S3, Redshift, Athena*
-📄 [View Certificate](https://www.credly.com/badges/3ddc1518-5d95-4958-8f35-3eea9fba17e1/linked_in_profile)
-
-### ✅ Software Testing & Quality Assurance – Dev IT Training
-
-*Skills: QA methodologies, test case design, defect tracking* | *Tools: JIRA, Selenium, Excel*
-
----
-
-## 📬 Let’s Connect
-
-I’m always open to networking, collaboration, and new opportunities in **Data Field**.
-Let’s connect!
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/kishan-patel-kp1629)
-* 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/kishanpatel1629)
-* 📧 kishan.patel1629@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kishan-patel-kp1629) | [Tableau Public](https://public.tableau.com/app/profile/kishanpatel1629) | kishan.patel1629@gmail.com
